@@ -2,7 +2,7 @@ const emptyCart = () => {
     cart.length = 0;
   }
 
-  const cart = [];
+const cart = [];
 
 const setCart = (book) => {
   cart.push(book);
